@@ -3,6 +3,7 @@
 ## How it work?
 
 Please see source code. It is not complex.
+MaGic - added num of lic.
 
 ## How to use?
 
